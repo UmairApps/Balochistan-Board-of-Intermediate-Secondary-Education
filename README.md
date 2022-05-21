@@ -2,6 +2,10 @@
 This HTML content about my regional educational board. Beacuse the running website is not a good website that's why I remake the Website. 
 If you interested in this Design you can contact me.
 
+Also you serve this page click ⬇ the below link or copy paste in your browser🔻
+
+https://umairapps.github.io/Balochistan-Board-of-Intermediate-Secondary-Education/
+
 ------------LICENSE------------
 
 MIT License
