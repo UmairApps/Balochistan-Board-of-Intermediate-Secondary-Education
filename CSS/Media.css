@@ -1,0 +1,255 @@
+/* ----------4K---------- */
+
+@media only screen and (max-width:2560px) and (min-width:1921px) {
+
+    /* HEADER */
+
+    header {
+        height: 100px;
+    }
+
+    #logo {
+        height: 100px;
+    }
+
+    #Eng {
+        font-size: 42px;
+        margin: -75px 110px;
+    }
+
+    #Ur {
+        font-size: 38px;
+        margin: 0px 8px;
+    }
+
+    /* NAVIGATION BAR */
+
+    nav {
+        margin: 20px 426px;
+    }
+
+    nav li {
+        width: 336px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 22px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 1800px;
+        margin: 12% 14%;
+        margin-bottom: 15px;
+        border: 50px;
+    }
+
+    .heading {
+        font-size: 42px;
+    }
+
+    .para {
+        font-size: 28px;
+    }
+
+    .list-para {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        margin: 0px 500px;
+        grid-column-gap: 420px;
+    }
+
+    #container div h2 {
+        font-size: 48px;
+    }
+
+    #container div li a {
+        font-size: 28px;
+    }
+
+    .Block {
+        height: 200px;
+        width: 500px;
+    }
+
+    .Block h3 {
+        font-size: 38px;
+    }
+
+    .Block h5 {
+        font-size: 28px;
+    }
+
+    /* FOOTER */
+
+    footer span {
+        height: 120px;
+        font-size: xxx-large;
+    }
+}
+
+/* ----------HD SCREENS---------- */
+
+@media only screen and (max-width:1920px) and (min-width:1441px) {
+
+    /* HEADER */
+
+    header {
+        height: 85px;
+    }
+
+    #logo {
+        height: 85px;
+    }
+
+    #Eng {
+        font-size: 38px;
+        margin: -66px 94px;
+    }
+
+    #Ur {
+        font-size: 32px;
+        margin: 0px 8px;
+    }
+
+    /* NAVIGATION */
+
+    nav {
+        margin: 20px 246px;
+    }
+
+    nav li {
+        width: 280px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 1500px;
+        margin: 14% 10%;
+        margin-bottom: 15px;
+        border-radius: 40px;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+
+    .para {
+        font-size: 24px;
+    }
+
+    .list-para {
+        font-size: 24px;
+        line-height: 32px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        grid-column-gap: 325px;
+        margin: 0px 300px;
+    }
+
+    #container div h2 {
+        font-size: 42px;
+    }
+
+    #container div li a {
+        font-size: 24px;
+    }
+
+    .Block {
+        width: 400px;
+        height: 200px;
+
+    }
+
+    .Block h3 {
+        font-size: 32px;
+    }
+
+    .Block h5 {
+        font-size: 24px;
+    }
+}
+
+/* @media only screen and (max-width:1440px) and (min-width:1367px){
+
+    <--------DEFAULT-------->
+
+} */
+
+@media only screen and (max-width:1024px) and (min-width:769px) {
+
+    /* HEADER */
+
+    #Eng {
+        font-size: 26px;
+        margin: -55px 88px;
+    }
+
+    #Ur {
+        font-size: 26px;
+    }
+
+    /* NAVBAR */
+
+    nav {
+        margin: 12px 12px;
+    }
+
+    nav li {
+        width: 194px;
+        height: 55px;
+        line-height: 55px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 900px;
+        margin: 25% 4%;
+        margin-bottom: 15px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        grid-column-gap: 170px;
+        margin: 0px 90px;
+    }
+
+    #container div h2 {
+        font-size: 26px;
+    }
+
+    #container div li a {
+        font-size: 16px;
+    }
+
+    .Block {
+        height: 120px;
+        width: 250px;
+    }
+
+    .Block h3 {
+        font-size: 18px;
+    }
+
+    .Block h5 {
+        font-size: 16px;
+    }
+}
+
+/* ----------PORTABLE SCREENS---------- */
+
+@media only screen {}
