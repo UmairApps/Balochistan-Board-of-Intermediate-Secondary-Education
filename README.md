@@ -1,6 +1,8 @@
-# Balochistan-Board-of-Intermediate-Secondary-Education
+Balochistan-Board-of-Intermediate-Secondary-Education
 This HTML content about my regional educational board. Beacuse the running website is not a good website that's why I remake the Website. 
 If you interested in this Design you can contact me.
+
+NOTE: THIS PROJECT NOT COMPLETED YET!
 
 Also you serve this page click ⬇ the below link or copy paste in your browser🔻
 
