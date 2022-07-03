@@ -12,7 +12,7 @@ https://umairapps.github.io/Balochistan-Board-of-Intermediate-Secondary-Educatio
 
 MIT License
 
-Copyright (c) 2022 Muhammed Umair
+Copyright (c) 2022 Muhammad Umair
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
