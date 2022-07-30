@@ -24,6 +24,10 @@
 
     /* NAVIGATION BAR */
 
+    #port-screens {
+        display: none;
+    }
+
     nav {
         margin: 20px 426px;
     }
@@ -119,6 +123,10 @@
 
     /* NAVIGATION */
 
+    #port-screens {
+        display: none;
+    }
+
     nav {
         margin: 20px 246px;
     }
@@ -182,13 +190,42 @@
     }
 }
 
-/* @media only screen and (max-width:1440px) and (min-width:1367px){
+@media only screen and (max-width:1440px) and (min-width:1281px) {
 
-    <--------DEFAULT-------->
+    #port-screens {
+        display: none;
+    }
 
-} */
+}
 
-@media only screen and (max-width:1024px) and (min-width:769px) {
+@media only screen and (max-width:1280px) and (min-width: 1025px) {
+
+    /* NAVBAR */
+
+    #port-screens {
+        display: none;
+    }
+
+    nav {
+        margin: 12px 56px;
+    }
+
+    nav li {
+        width: 228px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 16px;
+    }
+
+    /* SECTION-! */
+
+    #sec-1 {
+        margin: 17% 12%;
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (max-width:1024px) and (min-width:913px) {
 
     /* HEADER */
 
@@ -202,6 +239,10 @@
     }
 
     /* NAVBAR */
+
+    #port-screens {
+        display: none;
+    }
 
     nav {
         margin: 12px 12px;
@@ -250,6 +291,143 @@
     }
 }
 
-/* ----------PORTABLE SCREENS---------- */
+/* ----------PORTABLE DEVICES/SCREENS---------- */
 
-@media only screen {}
+@media only screen and (max-width:912px) and (min-width:821px) {
+
+    /* HEADER */
+
+    #Eng {
+        margin: -54px 88px;
+        font-size: 25px;
+    }
+
+    #Ur {
+        margin: 4px 8px;
+        font-size: 22px;
+    }
+
+    /* NAV-MENU */
+
+    #nav-menu {
+        display: none;
+    }
+
+    #port-screens {
+        margin: 12px 245px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 700px;
+        margin: 26% 10%;
+        margin-bottom: 15px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        grid-column-gap: 160px;
+        margin: 0px 60px;
+    }
+
+    .Block {
+        height: 125px;
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width:820px) and (min-width:769px) {
+
+    /* HEADER */
+
+    #Eng {
+        font-size: 22px;
+        margin: -50px 88px;
+    }
+
+    #Ur {
+        font-size: 20px;
+    }
+
+    /* NAV-MENU */
+
+    #nav-menu {
+        display: none;
+    }
+
+    #port-screens {
+        margin: 12px 199px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 680px;
+        margin: 29% 7%;
+        margin-bottom: 15px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        grid-column-gap: 160px;
+        margin: 0;
+    }
+
+    .Block {
+        height: 125px;
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width:768px) and (min-width:600px) {
+
+    /* HEADER */
+
+    #Eng {
+        font-size: 20px;
+        margin: -50px 88px;
+    }
+
+    #Ur {
+        font-size: 20px;
+    }
+
+    /* NAV-MENU */
+
+    #nav-menu {
+        display: none;
+    }
+
+    #port-screens {
+        margin: 12px 172px;
+    }
+
+    /* SECTION-1 */
+
+    #sec-1 {
+        width: 680px;
+        margin: 30% 5%;
+        margin-bottom: 15px;
+    }
+
+    /* SECTION-2 */
+
+    #container {
+        grid-column-gap: 140px;
+        margin: 0px 10px;
+    }
+
+    .Block {
+        height: 125px;
+        width: 220px;
+    }
+
+    /* FOOTER */
+
+    footer>span {
+        font-size: x-large;
+    }
+}
