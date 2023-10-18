@@ -1,4 +1,4 @@
-Balochistan-Board-of-Intermediate-Secondary-Education
+# Balochistan-Board-of-Intermediate-Secondary-Education
 This HTML content about my regional educational board. Beacuse the running website is not a good website that's why I remake the Website. 
 If you interested in this Design you can contact me.
 
@@ -12,7 +12,7 @@ https://umairapps.github.io/Balochistan-Board-of-Intermediate-Secondary-Educatio
 
 MIT License
 
-Copyright (c) 2022 Muhammad Umair
+# Copyright (c) 2022 Muhammad Umair
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
